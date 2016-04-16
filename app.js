@@ -1,4 +1,4 @@
-var margin = {top: 50, right: 0, bottom: 50, left: 70};
+var margin = {top: 50, right: 0, bottom: 250, left: 70};
 var width = 1000 - margin.left - margin.right;
 var height = 700 - margin.top - margin.bottom;
 
@@ -39,7 +39,12 @@ d3.tsv('cities.txt', function(err, data) {
     svg.append('g')
         .attr('class', 'x axis')
         .attr('transform', 'translate(0, ' + height + ')')
-        .call(xAxis);
+        .call(xAxis)
+        .selectAll("text")	
+            .style("text-anchor", "end")
+            .attr("transform", function(d) {
+                return "rotate(-65)" 
+                });
 
     svg.append('g')
         .attr('class', 'y axis')

@@ -9,7 +9,6 @@ text {
     width: 80%;
     display: block;
     margin: auto;
-    overflow: auto;
 }
 
 .bar:hover {
@@ -25,6 +24,7 @@ text {
 svg{
     display: block;
     margin: auto;
+    overflow: auto;
 }
 
 .tooltip {
@@ -51,11 +51,11 @@ svg{
 }
 
 .x.axis text {
-    display: none;
+ 
 }
 
 .x.axis .tick {
-    display: none;
+
 }
 
 .x.axis path {
