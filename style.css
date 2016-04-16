@@ -1,0 +1,83 @@
+text {
+    font-size: 15px;
+    color: #BFBFBF;
+}
+
+
+
+.container{
+    width: 80%;
+    display: block;
+    margin: auto;
+    overflow: auto;
+}
+
+.bar:hover {
+    fill: #677285;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.bar{
+    fill: #D6DFEE;
+}
+
+svg{
+    display: block;
+    margin: auto;
+}
+
+.tooltip {
+    position: absolute;
+    background: none;
+    color: #E69987;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 3px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #BFBFBF;
+    shape-rendering: crispEdges;
+}
+
+.y.axis {
+    color: #BFBFBF;
+}
+
+.x.axis text {
+    display: none;
+}
+
+.x.axis .tick {
+    display: none;
+}
+
+.x.axis path {
+    fill: none;
+    stroke: #BFBFBF;
+}
+
+h2{
+    font-family: sans-serif;
+    color: #677285;
+}
+
+body{
+    font-family: sans-serif;
+    color: #BFBFBF;
+}
+
+.sources a{
+    text-decoration: none;
+    color: #677285;
+}
+
+.sources a:hover{
+    color: #E69987;
+}

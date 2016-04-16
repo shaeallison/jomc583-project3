@@ -1,0 +1,20 @@
+rank	city	median	stateMedian	costIndex
+1	San Fransisco, California	77485	60190	264
+2	New York City, New York	52223	57369	262
+3	Washington D.C.	67572	67572	252
+4	Boston, Massachusetts	53583	66768	215
+5	San Jose, California	80977	60190	213
+6	Oakland, California	54394	60190	212
+7	Honolulu, Hawaii	63772	68020	212
+8	Los Angeles, California	48466	60190	209
+9	Chicago, Illinois	47099	56210	208
+10	Philadelphia, Pennsylvania 	56210	52007	204
+12	Seattle, Washington	70172	58405	201
+13	Miami, Florida	31070	46036	199
+14	Anchorage, Alaska	79045	72237	188
+15	San Diego, California	63456	60190	187
+16	Portland, Oregon	55571	50251	184
+17	Hartford, Connecticut	27417	67098	183
+18	Denver, Colorado	51089	58823	182
+19	Pittsburg, Pennsylvania	42004	52007	181
+20	Baltimore, Maryland	42266	72483	181

@@ -1,0 +1,20 @@
+ranking	uni	tuition	fga	fgp
+1	California Institute of Technology	63471	57	64.9
+2	University of Oxford	12737	43	58.1
+3	Stanford University	46320	57	57.9
+4	University of Cambridge	12737	57	56.1
+5	Massachusetts Institute of Technology	46704	59	55.9
+6	Harvard University	45278	61	55.7
+7	Princeton University	43450	70	55.7
+8	Imperial College London	12737	54	55.6
+9	Swiss Federal Institute of Technology Zurich	18616	58	55.2
+10	University of Chicago	50193	50	54.0
+11	John Hopkins University	48710	52	53.8
+12	Yale University	47600	29	53.7
+13	University of California Berkley	38140	49	53.1
+14	University College London	12737	63	52.4
+15	Columbia University	51008	51	51.3
+16	University of California Los Angeles	35631	45	51.1
+17	University of Pennsylvania	24806	55	50.9
+18	Cornell University	49116	64	50.0
+
